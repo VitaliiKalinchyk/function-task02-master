@@ -5,7 +5,7 @@ The purpose of this exercise is to train you to work with loop statements.
 Estimated workload of this exercise is _30 min_.
 
 ### Description
-Please, proceed to [`FunctionsTask`](src/main/java/com/epam/rd/autotasks/FunctionsTask.java) class
+Please, proceed to [`FunctionsTask`](src/main/java/com/epam/rd/autotasks/FunctionsTask2.java) class
 and implement its static methods:
 ---
 

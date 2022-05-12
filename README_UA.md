@@ -3,7 +3,7 @@
 Час виконання цієї вправи _30 хв_.
 
 ### Опис
-Будь ласка, перейдіть до класу [`FunctionsTask`](src/main/java/com/epam/rd/autotasks/FunctionsTask.java)
+Будь ласка, перейдіть до класу [`FunctionsTask`](src/main/java/com/epam/rd/autotasks/FunctionsTask2.java)
 і реалізувати його статичні методи:
 
 
